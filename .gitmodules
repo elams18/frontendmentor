@@ -1,3 +1,6 @@
 [submodule "order-summary-component-main"]
 	path = order-summary-component-main
 	url = https://github.com/elams18/order-summary-component-main.git
+[submodule "nft-preview-card-component-main"]
+	path = nft-preview-card-component-main
+	url = https://github.com/elams18/nft-preview-card-component-main.git
