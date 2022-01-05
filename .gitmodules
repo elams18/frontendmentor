@@ -1,0 +1,3 @@
+[submodule "order-summary-component-main"]
+	path = order-summary-component-main
+	url = https://github.com/elams18/order-summary-component-main.git
